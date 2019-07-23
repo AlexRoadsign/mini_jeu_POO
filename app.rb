@@ -32,4 +32,4 @@ while 0 < player1.life_points && 0 < player2.life_points
 
 end
 
-binding.pry
+#binding.pry
